@@ -1,0 +1,4 @@
+#Thu Sep 22 04:31:26 ICT 2022
+base.0=C\:\\Users\\binhp\\code\\counter-app\\counterapp\\lib\\counter_app\\counter_app_get\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
